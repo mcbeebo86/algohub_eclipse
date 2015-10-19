@@ -5,7 +5,8 @@ import java.lang.String;
 public enum AlgosEnum {
 	
 	AnagramsTest("AnagramsTest"),
-	SubStringTest("SubStringTest");
+	SubstringTest("SubstringTest"),
+	AlternatingIntsTest("AlternatingIntsTest");
 		
 	private String algoName;
 	
